@@ -1,4 +1,4 @@
 console.log("hola Mundo");
-let number = 4;
+let number = 100;
 
 //Algun comentario
